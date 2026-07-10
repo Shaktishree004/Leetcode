@@ -12,6 +12,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 ## Current Problems
 - [Problem 1: Two Sum](Problem_1_Two_Sum/README.md)
 - [Problem 5: Longest Palindromic Substring](Problem_5_Longest_Palindromic_Substring/README.md)
+- [Problem 10: Regular Expression Matching](Problem_10_Regular_Expression_Matching/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
