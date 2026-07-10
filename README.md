@@ -15,6 +15,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 4: Median of Two Sorted Arrays](Problem_4_Median_of_Two_Sorted_Arrays/README.md)
 - [Problem 5: Longest Palindromic Substring](Problem_5_Longest_Palindromic_Substring/README.md)
 - [Problem 10: Regular Expression Matching](Problem_10_Regular_Expression_Matching/README.md)
+- [Problem 11: Container With Most Water](Problem_11_Container_With_Most_Water/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
