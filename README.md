@@ -20,6 +20,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 19: Remove Nth Node From End of List](Problem_19_Remove_Nth_Node_From_End_of_List/README.md)
 - [Problem 20: Valid Parentheses](Problem_20_Valid_Parentheses/README.md)
 - [Problem 22: Generate Parentheses](Problem_22_Generate_Parentheses/README.md)
+- [Problem 28: Implement strStr](Problem_28_Implement_strStr/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.

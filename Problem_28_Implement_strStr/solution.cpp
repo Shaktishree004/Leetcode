@@ -1,0 +1,21 @@
+#include <string>
+using namespace std;
+
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        if (needle.empty()) {
+            return 0;
+        }
+
+        int n = static_cast<int>(haystack.size());
+        int m = static_cast<int>(needle.size());
+        for (int i = 0; i <= n - m; ++i) {
+            if (haystack.substr(i, m) == needle) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+};
