@@ -1,3 +1,4 @@
+
 # LeetCode Practice Repository
 
 This repository is a growing collection of LeetCode solutions that I’ve organized for clear study and review. Each problem includes:
@@ -17,6 +18,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 10: Regular Expression Matching](Problem_10_Regular_Expression_Matching/README.md)
 - [Problem 11: Container With Most Water](Problem_11_Container_With_Most_Water/README.md)
 - [Problem 19: Remove Nth Node From End of List](Problem_19_Remove_Nth_Node_From_End_of_List/README.md)
+- [Problem 20: Valid Parentheses](Problem_20_Valid_Parentheses/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
