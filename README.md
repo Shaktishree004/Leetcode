@@ -25,6 +25,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 88: Merge Sorted Array](Problem_88_Merge_Sorted_Array/README.md)
 - [Problem 94: Binary Tree Inorder Traversal](Problem_94_Binary_Tree_Inorder_Traversal/README.md)
 - [Problem 98: Validate Binary Search Tree](Problem_98_Validate_Binary_Search_Tree/README.md)
+- [Problem 99: Recover Binary Search Tree](Problem_99_Recover_Binary_Search_Tree/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
