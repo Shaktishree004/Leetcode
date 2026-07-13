@@ -23,6 +23,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 28: Implement strStr](Problem_28_Implement_strStr/README.md)
 - [Problem 79: Word Search](Problem_79_Word_Search/README.md)
 - [Problem 88: Merge Sorted Array](Problem_88_Merge_Sorted_Array/README.md)
+- [Problem 94: Binary Tree Inorder Traversal](Problem_94_Binary_Tree_Inorder_Traversal/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
