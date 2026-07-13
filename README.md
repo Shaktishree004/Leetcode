@@ -22,6 +22,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 22: Generate Parentheses](Problem_22_Generate_Parentheses/README.md)
 - [Problem 28: Implement strStr](Problem_28_Implement_strStr/README.md)
 - [Problem 79: Word Search](Problem_79_Word_Search/README.md)
+- [Problem 88: Merge Sorted Array](Problem_88_Merge_Sorted_Array/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
