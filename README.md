@@ -31,6 +31,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 103: Binary Tree Zigzag Level Order Traversal](Problem_103_Binary_Tree_Zigzag_Level_Order_Traversal/README.md)
 - [Problem 104: Maximum Depth of Binary Tree](Problem_104_Maximum_Depth_of_Binary_Tree/README.md)
 - [Problem 116: Populating Next Right Pointers in Each Node](Problem_116_Populating_Next_Right_Pointers_in_Each_Node/README.md)
+- [Problem 125: Valid Palindrome](Problem_125_Valid_Palindrome/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
