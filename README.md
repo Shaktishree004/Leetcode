@@ -36,6 +36,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 144: Binary Tree Preorder Traversal](Problem_144_Binary_Tree_Preorder_Traversal/README.md)
 - [Problem 145: Binary Tree Postorder Traversal](Problem_145_Binary_Tree_Postorder_Traversal/README.md)
 - [Problem 155: Min Stack](Problem_155_Min_Stack/README.md)
+- [Problem 160: Intersection of Two Linked Lists](Problem_160_Intersection_of_Two_Linked_Lists/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
