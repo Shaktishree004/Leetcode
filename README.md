@@ -34,6 +34,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 125: Valid Palindrome](Problem_125_Valid_Palindrome/README.md)
 - [Problem 141: Linked List Cycle](Problem_141_Linked_List_Cycle/README.md)
 - [Problem 144: Binary Tree Preorder Traversal](Problem_144_Binary_Tree_Preorder_Traversal/README.md)
+- [Problem 145: Binary Tree Postorder Traversal](Problem_145_Binary_Tree_Postorder_Traversal/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
