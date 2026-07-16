@@ -37,6 +37,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 145: Binary Tree Postorder Traversal](Problem_145_Binary_Tree_Postorder_Traversal/README.md)
 - [Problem 155: Min Stack](Problem_155_Min_Stack/README.md)
 - [Problem 160: Intersection of Two Linked Lists](Problem_160_Intersection_of_Two_Linked_Lists/README.md)
+- [Problem 206: Reverse Linked List](Problem_206_Reverse_Linked_List/README.md)
 - [Problem 232: Implement Queue using Stacks](Problem_232_Implement_Queue_using_Stacks/README.md)
 
 ## Repo Structure
