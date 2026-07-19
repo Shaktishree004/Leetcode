@@ -42,6 +42,7 @@ The goal is to keep solutions easy to read, consistent, and useful for future re
 - [Problem 242: Valid Anagram](Problem_242_Valid_Anagram/README.md)
 - [Problem 344: Reverse String](Problem_344_Reverse_String/README.md)
 - [Problem 374: Guess Number Higher or Lower](Problem_374_Guess_Number_Higher_or_Lower/README.md)
+- [Problem 622: Design Circular Queue](Problem_622_Design_Circular_Queue/README.md)
 
 ## Repo Structure
 - Each problem has its own folder.
